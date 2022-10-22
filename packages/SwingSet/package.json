@@ -43,7 +43,7 @@
     "@endo/init": "^0.5.49",
     "@endo/marshal": "^0.7.5",
     "@endo/nat": "^4.1.20",
-    "@endo/promise-kit": "^0.2.49",
+    "@endo/promise-kit": "^0.2.50",
     "@endo/zip": "^0.2.27",
     "anylogger": "^0.21.0",
     "import-meta-resolve": "^1.1.1",
