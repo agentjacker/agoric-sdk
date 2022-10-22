@@ -46,7 +46,7 @@
     "@endo/eventual-send": "^0.16.5",
     "@endo/far": "^0.2.11",
     "@endo/marshal": "^0.7.5",
-    "@endo/promise-kit": "^0.2.49"
+    "@endo/promise-kit": "^0.2.50"
   },
   "devDependencies": {
     "@endo/bundle-source": "^2.3.1",
