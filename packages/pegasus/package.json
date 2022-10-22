@@ -41,7 +41,7 @@
     "@endo/captp": "^2.0.15",
     "@endo/far": "^0.2.11",
     "@endo/init": "^0.5.49",
-    "@endo/promise-kit": "^0.2.49"
+    "@endo/promise-kit": "^0.2.50"
   },
   "devDependencies": {
     "@agoric/deploy-script-support": "^0.9.4",
