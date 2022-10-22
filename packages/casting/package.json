@@ -28,7 +28,7 @@
     "@cosmjs/tendermint-rpc": "0.29.0",
     "@endo/far": "^0.2.11",
     "@endo/init": "^0.5.49",
-    "@endo/lockdown": "^0.1.21",
+    "@endo/lockdown": "^0.1.22",
     "@endo/marshal": "^0.7.5",
     "@endo/promise-kit": "^0.2.49",
     "node-fetch": "^2.6.0"
