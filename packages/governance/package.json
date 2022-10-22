@@ -43,7 +43,7 @@
     "@endo/eventual-send": "^0.16.5",
     "@endo/far": "^0.2.11",
     "@endo/marshal": "^0.7.5",
-    "@endo/promise-kit": "^0.2.49"
+    "@endo/promise-kit": "^0.2.50"
   },
   "devDependencies": {
     "@agoric/deploy-script-support": "^0.9.4",
