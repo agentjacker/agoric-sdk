@@ -25,7 +25,7 @@
     "@agoric/casting": "^0.3.2",
     "@endo/captp": "^2.0.15",
     "@endo/marshal": "^0.7.5",
-    "@endo/promise-kit": "^0.2.49",
+    "@endo/promise-kit": "^0.2.50",
     "@lit-labs/react": "^1.0.1",
     "lit": "^2.0.2",
     "robot3": "^0.2.19",
