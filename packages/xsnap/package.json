@@ -34,7 +34,7 @@
     "@endo/netstring": "^0.3.19",
     "@endo/promise-kit": "^0.2.49",
     "@endo/stream": "^0.3.18",
-    "@endo/stream-node": "^0.2.19",
+    "@endo/stream-node": "^0.2.20",
     "glob": "^7.1.6",
     "rollup-plugin-string": "^3.0.0"
   },
