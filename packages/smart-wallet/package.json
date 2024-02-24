@@ -36,7 +36,7 @@
     "@agoric/vat-data": "^0.4.3",
     "@agoric/vats": "^0.13.0",
     "@agoric/zoe": "^0.25.3",
-    "@endo/far": "^0.2.11"
+    "@endo/far": "^0.2.16"
   },
   "files": [
     "src/"
