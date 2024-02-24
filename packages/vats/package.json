@@ -39,8 +39,8 @@
     "@agoric/wallet-backend": "^0.13.3",
     "@agoric/zoe": "^0.25.3",
     "@endo/far": "^0.2.11",
-    "@endo/import-bundle": "^0.2.53",
-    "@endo/init": "^0.5.49",
+    "@endo/import-bundle": "^1.0.0",
+    "@endo/init": "^1.0.0",
     "@endo/marshal": "^0.7.5",
     "@endo/promise-kit": "^0.2.49"
   },
