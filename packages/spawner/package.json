@@ -32,7 +32,7 @@
   "dependencies": {
     "@agoric/assert": "^0.5.1",
     "@endo/eventual-send": "^0.16.5",
-    "@endo/import-bundle": "^0.2.53",
+    "@endo/import-bundle": "^1.0.0",
     "@endo/marshal": "^0.7.5"
   },
   "devDependencies": {
