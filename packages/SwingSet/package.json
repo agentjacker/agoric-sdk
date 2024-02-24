@@ -35,7 +35,7 @@
     "@agoric/xsnap": "^0.13.2",
     "@endo/base64": "^0.2.27",
     "@endo/bundle-source": "^2.3.1",
-    "@endo/captp": "^2.0.15",
+    "@endo/captp": "^4.0.0",
     "@endo/check-bundle": "^0.2.11",
     "@endo/compartment-mapper": "^0.7.13",
     "@endo/eventual-send": "^0.16.5",
