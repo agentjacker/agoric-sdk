@@ -47,7 +47,7 @@
     "@endo/bundle-source": "^2.3.1",
     "@endo/captp": "^2.0.15",
     "@endo/compartment-mapper": "^0.7.13",
-    "@endo/far": "^0.2.11",
+    "@endo/far": "^0.2.16",
     "@endo/init": "^0.5.49",
     "@endo/marshal": "^0.7.5",
     "@endo/promise-kit": "^0.2.49",
